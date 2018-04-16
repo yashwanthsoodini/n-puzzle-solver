@@ -4,7 +4,6 @@ The task is to reposition the tiles to their proper order.
 
 Let us consider a 3 * 3 grid for example.
 
-
 The board given as input can be
 
 0 3 8
